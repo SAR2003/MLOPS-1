@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: MLOPS-project
+Version: 0.0.1
+Author: Anurag
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
